@@ -5,3 +5,6 @@ Simple Flutter Project that calucates your body mass index and indicates if you 
 
 ![image](https://user-images.githubusercontent.com/90727656/170566065-2ed9035a-f10f-49c6-ae9e-d14aeaa4afcf.png)
 ![image](https://user-images.githubusercontent.com/90727656/170566093-ab581018-5e95-47b3-8071-f91c10986c9a.png)
+
+
+First start to Flutter and learning of the DART lanugage for most of the programming to this project. Also, a step into android and other platform developments!!!
